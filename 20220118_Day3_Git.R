@@ -5,3 +5,7 @@
 #Create new project -> Version Control -> Git 
 #Paste in URL
 
+#Questions marks mean that they exist but Git hasn't done anything with them yet 
+#A = added 
+
+#hello
