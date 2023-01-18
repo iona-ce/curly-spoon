@@ -8,4 +8,7 @@
 #Questions marks mean that they exist but Git hasn't done anything with them yet 
 #A = added 
 
-#hello
+#Everytime we change it, we need to save and recommit 
+#M = modified 
+
+#Excellent
