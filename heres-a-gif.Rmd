@@ -1,0 +1,16 @@
+---
+title: "here's-a-gif"
+author: "Sarah Nichols"
+date: "2023-01-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Here's a GIF, enjoy! 
+
+![cat-motorbike](cat-motorbike.gif) [](cat-motorbike.gif)
