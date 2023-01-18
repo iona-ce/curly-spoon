@@ -62,3 +62,9 @@ ggplot(plant_growth_rate, aes(x = soil.moisture.content, y = plant.growth.rate))
   theme_bw() +
   geom_smooth(method = "lm", se = TRUE, colour = "deeppink3", fill = "pink")
 ```
+
+## Very Important GIF
+
+![](https://media.giphy.com/media/aE9jhLzzQporrQRvyk/giphy.gif)
+
+
